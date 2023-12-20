@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.exe
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.deps.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\refint\ExtensionMethods.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll
