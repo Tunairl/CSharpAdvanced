@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.exe
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.deps.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\refint\EventsAndDelegates.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Generics\Events and Delegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\net8.0\ref\EventsAndDelegates.dll
