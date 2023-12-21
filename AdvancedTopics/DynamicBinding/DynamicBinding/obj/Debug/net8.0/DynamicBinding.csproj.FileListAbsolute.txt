@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\bin\Debug\net8.0\DynamicBinding.exe
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\bin\Debug\net8.0\DynamicBinding.deps.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\bin\Debug\net8.0\DynamicBinding.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\bin\Debug\net8.0\DynamicBinding.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\bin\Debug\net8.0\DynamicBinding.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\refint\DynamicBinding.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\DynamicBinding.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Dynamic\DynamicBinding\DynamicBinding\obj\Debug\net8.0\ref\DynamicBinding.dll
