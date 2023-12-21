@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Nullable Types\NullableTypes\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll
