@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpAdvanced\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
